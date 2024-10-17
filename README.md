@@ -33,11 +33,4 @@ The Image Processor includes the following features:
    - Use the Python script to read the final matrix and display the processed image.
    - Example command: `python display_image.py final_matrix.txt`
 
-## Usage
-
-1. **Prepare Input Image**: Ensure your input image is in a supported format (e.g., JPG, PNG).
-2. **Run the Conversion Script**: Convert the image to a matrix.
-3. **Compile and Run Assembly Program**: Follow the instructions for your specific assembly environment to compile and run the assembly code.
-4. **Choose Processing Options**: Use the menu to select desired image processing features.
-5. **View Output**: Display the final processed image.
 
